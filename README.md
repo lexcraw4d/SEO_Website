@@ -8,9 +8,10 @@
 
 # About
 The SEO Repository was created to improve a HTML and CSS semantics, syntax, and errors within another User's HTML/CSS file. This source code is available to everyone under the standard [MIT License](https://github.com/microsoft/vscode/blob/master/LICENSE.txt).
+![Screen shot of the updated functional website](Assets/images/SEOsite.JPG)
 
 # Installation
-To install please visit [my repository](https://github.com/lexcraw4d/SEO) and look at the uploaded files.
+To install please visit [my repository](https://github.com/lexcraw4d/SEO) and look at the uploaded files via GitHub Deployment.
 
 # Usage
 ##### Visual Studio Code
@@ -35,8 +36,8 @@ GitHub is a corporation which provides hosting for version control Git and softw
 
 # Contribution
 Feel free to contribute to this project in any of the following ways: 
-* [Submit bug and feature requests](https://github.com/lexcraw4d/SEO/issues)
-* [Review Source Code Changes](https://github.com/lexcraw4d/SEO/pulls) and make pull requests from typos to content
+* [Submit bug and feature requests](https://github.com/lexcraw4d/SEO_Website/issues)
+* [Review Source Code Changes](https://github.com/lexcraw4d/SEO_Website/pulls) and make pull requests from typos to content
 * For specific concerns that do not meet the above please do not hesitate to reach out to me via [My GitHub](https://github.com/lexcraw4d).
 
 If you are interested in fixing issues directly to the code base, please reference the [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) article.
